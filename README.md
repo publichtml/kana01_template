@@ -10,7 +10,7 @@
 
 ## 使い方
 
-FantasticFormula.evaluate の中に、あなたのコードを書いてください。
+スクリプトの中の ```FantasticFormula.evaluate``` メソッドのの中に、あなたのコードを書いてください。
 その後、下記のコマンドを実行すると、数式が正しく実装されているか確認してくれます。
 
 ```console
